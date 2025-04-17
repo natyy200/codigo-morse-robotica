@@ -18,3 +18,5 @@
 ## Montagem do circuito:
 
 ![](img/circuito.jpg)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=86827f&height=90&section=footer"/>
