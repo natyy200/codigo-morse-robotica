@@ -15,6 +15,10 @@
 - 1 Buzzer
 - 1 resistor 220 Ω
 
+## Software:
+
+- Arduino IDE
+
 ## Montagem do circuito:
 
 ![](img/circuito.jpg)
